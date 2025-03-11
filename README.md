@@ -117,7 +117,7 @@ This lecture focuses on natural language processing, enabling machines to unders
 ### Projects
 
 - [Parser](06-language/projects/parser/parser.py)
-- [Attention](06-Language/projects/attention/mask.py)
+- [Attention](06-language/projects/attention/mask.py)
 
 ## Certificate
 [Certificate of Completion](https://cs50.harvard.edu/certificates/)
