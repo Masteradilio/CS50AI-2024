@@ -119,4 +119,4 @@ This lecture focuses on natural language processing, enabling machines to unders
 - [Questions](06-Language/projects/questions)
 
 ## Certificate
-[Certificate of Completion](https://cs50.harvard.edu/certificates/ca65df30-05cc-4b57-95c6-aafcb2ebdc8c)
+[Certificate of Completion](https://cs50.harvard.edu/certificates/)
