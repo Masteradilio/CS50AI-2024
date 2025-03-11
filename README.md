@@ -85,7 +85,7 @@ Explores optimization techniques used to improve AI models and algorithms. It fo
 
 ### Projects
 
-- [Crossword](03-Optimization/projects/crossword/crossword.py)
+- [Crossword](03-optimization/projects/crossword/crossword.py)
 
 ## Lecture 4 - [Learning](04-Learning)
 
