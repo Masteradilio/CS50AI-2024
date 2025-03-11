@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ```
 
 
-## Lecture 0 - [Search](00-Search)
+## Lecture 0 - [Search](00-search)
 
 This lecture explores algorithms used for navigating problem spaces. It starts with basic search techniques like breadth-first search (BFS) and depth-first search (DFS), and progresses to more advanced informed search algorithms such as A* and greedy search. This lecture emphasizes how search algorithms are used to solve problems by finding optimal paths or solutions.
 
