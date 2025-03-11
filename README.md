@@ -95,7 +95,7 @@ Focuses on supervised learning, where models are trained using labeled data. The
 
 ### Projects
 
-- [Shopping](04-Learning/projects/shopping/shopping.py)
+- [Shopping](04-learning/projects/shopping/shopping.py)
 - [Nim](04-Learning/projects/nim/nim.py)
 
 ## Lecture 5 - [Neural Networks](05-Neural-Networks)
