@@ -64,7 +64,7 @@ The focus of this lecture is on how knowledge is represented in AI systems and h
 ### Projects
 
 - [Knights](01-knowledge/projects/knights/logic.py)
-- [Minesweeper](01-Knowledge/projects/minesweeper/minesweeper.py)
+- [Minesweeper](01-knowledge/projects/minesweeper/minesweeper.py)
 
 ## Lecture 2 - [Uncertainty](02-Uncertainty)
 
