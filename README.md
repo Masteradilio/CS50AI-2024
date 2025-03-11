@@ -75,7 +75,7 @@ This lecture provides an introduction to probabilistic models and statistical me
 ### Projects
 
 - [PageRank](02-uncertainty/projects/pagerank/pagerank.py)
-- [Heredity](02-Uncertainty/projects/heredity/heredity.py)
+- [Heredity](02-uncertainty/projects/heredity/heredity.py)
 
 ## Lecture 3 - [Optimization](03-Optimization)
 
