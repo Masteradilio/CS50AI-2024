@@ -55,7 +55,7 @@ This lecture explores algorithms used for navigating problem spaces. It starts w
 - [Tic-Tac-Toe](00-search/projects/tictactoe/tictactoe.py)
 
 
-## Lecture 1 - [Knowledge](01-Knowledge)
+## Lecture 1 - [Knowledge](01-knowledge)
 
 The focus of this lecture is on how knowledge is represented in AI systems and how reasoning is performed. It introduces propositional logic and predicate logic, explaining how these formal systems are used to represent facts and rules. The lecture shows how AI systems use logic to make decisions and solve problems based on given knowledge.
 
