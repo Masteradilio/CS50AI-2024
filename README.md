@@ -106,7 +106,7 @@ This lecture dives into neural networks and deep learning, which are powerful to
 
 ### Projects
 
-- [Traffic](05-Neural-Networks/projects/traffic/traffic.py)
+- [Traffic](05-neural-networks/projects/traffic/traffic.py)
 
 ## Lecture 6 - [Language](06-Language)
 
