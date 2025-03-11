@@ -66,7 +66,7 @@ The focus of this lecture is on how knowledge is represented in AI systems and h
 - [Knights](01-knowledge/projects/knights/logic.py)
 - [Minesweeper](01-knowledge/projects/minesweeper/minesweeper.py)
 
-## Lecture 2 - [Uncertainty](02-Uncertainty)
+## Lecture 2 - [Uncertainty](02-uncertainty)
 
 This lecture provides an introduction to probabilistic models and statistical methods, which are crucial for handling uncertainty in AI. It covers concepts such as random variables, probability distributions, and Bayes' theorem. Demonstrates how probabilistic reasoning is applied in AI to make predictions and decisions based on uncertain or incomplete information.
 
@@ -77,7 +77,7 @@ This lecture provides an introduction to probabilistic models and statistical me
 - [PageRank](02-uncertainty/projects/pagerank/pagerank.py)
 - [Heredity](02-uncertainty/projects/heredity/heredity.py)
 
-## Lecture 3 - [Optimization](03-Optimization)
+## Lecture 3 - [Optimization](03-optimization)
 
 Explores optimization techniques used to improve AI models and algorithms. It focuses on methods for finding the best parameters or solutions within given constraints. This lecture illustrates how optimization algorithms are used to train models effectively and efficiently
 
@@ -87,7 +87,7 @@ Explores optimization techniques used to improve AI models and algorithms. It fo
 
 - [Crossword](03-optimization/projects/crossword/crossword.py)
 
-## Lecture 4 - [Learning](04-Learning)
+## Lecture 4 - [Learning](04-learning)
 
 Focuses on supervised learning, where models are trained using labeled data. The lecture covers various supervised learning algorithms including linear regression, logistic regression, and support vector machines (SVMs). This lecture goes into depth on how to build and evaluate models that predict outcomes based on input features.
 
@@ -98,7 +98,7 @@ Focuses on supervised learning, where models are trained using labeled data. The
 - [Shopping](04-learning/projects/shopping/shopping.py)
 - [Nim](04-learning/projects/nim/nim.py)
 
-## Lecture 5 - [Neural Networks](05-Neural-Networks)
+## Lecture 5 - [Neural Networks](05-neural-networks)
 
 This lecture dives into neural networks and deep learning, which are powerful tools for handling complex tasks. It covers the architecture of neural networks, including layers, activation functions, and backpropagation. Additionally, it explains how these neural networks are trained and used for tasks like image and speech recognition.
 
@@ -108,7 +108,7 @@ This lecture dives into neural networks and deep learning, which are powerful to
 
 - [Traffic](05-neural-networks/projects/traffic/traffic.py)
 
-## Lecture 6 - [Language](06-Language)
+## Lecture 6 - [Language](06-language)
 
 This lecture focuses on natural language processing, enabling machines to understand and generate human language. It covers text processing techniques and various NLP models. Demonstrates how NLP techniques are applied in tasks like sentiment analysis and machine translation.
 
