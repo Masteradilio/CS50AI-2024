@@ -51,8 +51,9 @@ This lecture explores algorithms used for navigating problem spaces. It starts w
 
 ### Projects
 
-- [Degrees](00-Search/projects/degrees)
-- [Tic-Tac-Toe](00-Search/projects/tictactoe)
+- [Degrees](00-search/projects/degrees/degrees.py)
+- [Tic-Tac-Toe](00-search/projects/tictactoe/tictactoe.py)
+
 
 ## Lecture 1 - [Knowledge](01-Knowledge)
 
@@ -62,8 +63,8 @@ The focus of this lecture is on how knowledge is represented in AI systems and h
 
 ### Projects
 
-- [Knights](01-Knowledge/projects/knights)
-- [Minesweeper](01-Knowledge/projects/minesweeper)
+- [Knights](01-Knowledge/projects/knights/logic.py)
+- [Minesweeper](01-Knowledge/projects/minesweeper/minesweeper.py)
 
 ## Lecture 2 - [Uncertainty](02-Uncertainty)
 
@@ -73,8 +74,8 @@ This lecture provides an introduction to probabilistic models and statistical me
 
 ### Projects
 
-- [PageRank](02-Uncertainty/projects/pagerank)
-- [Heredity](02-Uncertainty/projects/heredity)
+- [PageRank](02-Uncertainty/projects/pagerank/pagerank.py)
+- [Heredity](02-Uncertainty/projects/heredity/heredity.py)
 
 ## Lecture 3 - [Optimization](03-Optimization)
 
@@ -84,7 +85,7 @@ Explores optimization techniques used to improve AI models and algorithms. It fo
 
 ### Projects
 
-- [Crossword](03-Optimization/projects/crossword)
+- [Crossword](03-Optimization/projects/crossword/crossword.py)
 
 ## Lecture 4 - [Learning](04-Learning)
 
@@ -94,8 +95,8 @@ Focuses on supervised learning, where models are trained using labeled data. The
 
 ### Projects
 
-- [Shopping](04-Learning/projects/shopping)
-- [Nim](04-Learning/projects/nim)
+- [Shopping](04-Learning/projects/shopping/shopping.py)
+- [Nim](04-Learning/projects/nim/nim.py)
 
 ## Lecture 5 - [Neural Networks](05-Neural-Networks)
 
@@ -105,7 +106,7 @@ This lecture dives into neural networks and deep learning, which are powerful to
 
 ### Projects
 
-- [Traffic](05-Neural-Networks/projects/traffic)
+- [Traffic](05-Neural-Networks/projects/traffic/traffic.py)
 
 ## Lecture 6 - [Language](06-Language)
 
@@ -115,8 +116,8 @@ This lecture focuses on natural language processing, enabling machines to unders
 
 ### Projects
 
-- [Parser](06-Language/projects/parser)
-- [Questions](06-Language/projects/questions)
+- [Parser](06-Language/projects/parser/parser.py)
+- [Attention](06-Language/projects/attention/mask.py)
 
 ## Certificate
 [Certificate of Completion](https://cs50.harvard.edu/certificates/)
